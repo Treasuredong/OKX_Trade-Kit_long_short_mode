@@ -1,5 +1,5 @@
 # OKX_Trade-Kit_long_short_mode
-**老许的 AI 实盘策略 V4.1**
+# Crypto老许的 AI 实盘策略 V4.1
 
 这是一个面向 OKX USDT 永续合约的多标的 AI 自动交易策略，支持 `BTC / ETH / SOL / XRP / OKB / ORDI / TRUMP / DOGE / BNB / RAVE`。策略目标不是高频刷单，而是通过多维信号寻找更高赔率的波段机会，并自动完成挂单、止盈止损和持仓管理。
 
