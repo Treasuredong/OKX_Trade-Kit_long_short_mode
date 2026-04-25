@@ -23,3 +23,4 @@
 本策略仅用于技术研究，不构成投资建议。永续合约波动大且带杠杆，实盘使用需自行承担风险。
 
 <img width="2092" height="1626" alt="image" src="https://github.com/user-attachments/assets/e18c6a72-28db-4afd-8f31-97327f7c5817" />
+<img width="2076" height="1638" alt="image" src="https://github.com/user-attachments/assets/d8fa8cd9-b03b-4fdb-a41f-adb31fb001b2" />
